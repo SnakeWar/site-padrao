@@ -1,0 +1,42 @@
+body{
+    font-family: Roboto;
+}
+h1{
+    font-family: Roboto;
+}
+p{
+    font-family: Roboto;
+}
+.header-site{
+    background-image: url("../img/bd-mario.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+.middle-site{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.imagem{
+    height: 400px;
+}
+.mm-site{
+    background-image: url("../img/bd-2.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.footer-site{
+    background-color: #333333;
+    color: #ffffff;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
