@@ -7,6 +7,11 @@ h1{
 p{
     font-family: Roboto;
 }
+
+.ativo{
+    border-bottom: solid 3px #707070;
+}
+
 .header-site{
     background-image: url("../img/bd-mario.jpg");
     background-position: center top;
@@ -40,3 +45,15 @@ p{
     padding-bottom: 50px;
     padding-top: 50px;
 }
+
+/*portfolio*/
+.portfolio{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.hr-port{
+    border-color: #343a40;
+    border-width: 3px;
+    width: 20% ;
+}
+/*fim portfolio*/
